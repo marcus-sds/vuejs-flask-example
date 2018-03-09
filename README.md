@@ -1,3 +1,5 @@
+> Contents are originated from "https://github.com/gtalarico/flask-vuejs-template" and modified some script to run at CloudFoundry.
+
 # Flask-Vue-Template
 
 A project template for a Flask-Vue.js Web Application

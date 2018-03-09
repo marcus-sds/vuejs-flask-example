@@ -1,0 +1,12 @@
+---
+applications:
+- name: vuejs
+  memory: 128M
+  disk_quota: 1024M
+  buildpack: python_buildpack
+  health-check-type: port
+#  health-check-type: http
+#  health-check-http-endpoint: /
+  host: vuejs
+  instances: 1
+  timeout: 180
